@@ -1,5 +1,5 @@
-<h1 style="text aling:center;">Hi 👋, i'm Raiyan</h1>
-<b style="text align: center;">a passionate full stack developer from dhaka, bangladesh</b>
+<h1 style="text-align: center;">Hi 👋, i'm Raiyan</h1>
+<b style="text-align: center;">a passionate full stack developer from dhaka, bangladesh</b>
 
 - 🔭 I’m currently working on javascript, python, PHP, laravel, MySQL...
 - 💬 Ask me about react.js node.js, HTML5, CSS3, taliwind css, next.js, express.js, mongoDB, Bootstrap...
