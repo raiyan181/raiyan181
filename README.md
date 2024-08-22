@@ -1,5 +1,5 @@
-<h1 style="text-align: center; margin-left:100px;">Hi 👋, i'm Raiyan</h1>
-<b style="text-align: center; font-size:20px; margin-left:100px:">a passionate full stack developer from dhaka, bangladesh</b>
+<h1>Hi 👋, i'm Raiyan</h1>
+a passionate full stack developer from dhaka, bangladesh
 <br>
 <br><br>
 - 🔭 I’m currently working on javascript, python, PHP, laravel, MySQL...
