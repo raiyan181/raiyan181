@@ -10,13 +10,6 @@ Skills: React.js, next.js, express.js, MongoDB, Taliwind CSS, HTML5, CSS3, Boots
 - 🌱 I’m currently learning Javascript, PHP, CSE, Laravel 
 - 💬 Ask me about react.javasript, node.javascript, next.javascript, express.javascript, taliwind CSS, HTML5, CSS3, mongoDB, Bootstrap... 
 - 📫 How to reach me: m.deshanuddinraiyanbd889@gmail.com 
-Connect with me:
-https://www.linkedin.com/in/raiyan-ahmed0/ raiyan_ahmed_1 https://www.facebook.com/raiyanahmed.0
-
-Languages and Tools:
-bootstrap css3 figma firebase git html5 javascript laravel linux mongodb mysql php react tailwind typescript
-
-
 
 [<img style='color:white;' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/raiyan181)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100087983477393)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://ehsansuddinraiyan.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/http://www.youtube.com/@user-mi4pl4ib1c)  
 
