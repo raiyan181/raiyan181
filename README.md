@@ -1,6 +1,6 @@
 
 <h1>Hi there 👋,  i'm Raiyan</h1>
-<p><b>Full stack and mern stack Web Developer</b></p>
+<p style="font-size:22px;"><b>Full stack and mern stack Web Developer</b></p>
 ![Full stack and mern stack Web Developer]
 <br>
 
