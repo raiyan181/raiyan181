@@ -1,10 +1,7 @@
-
-<h1 style="text-align: center;">Hi👋, i'm Raiyan</h1>
-    <hr>
-    <p style="text-align: center; font-size: 20px;"><b>A passionate and expertised Mern stack and Full stack web developer</b></p>
-    <br>
-
-
+<h1>Hi there 👋,  i'm Raiyan</h1>
+<p style="text-align:center;"><b>Full stack and mern stack Web Developer</b></p>
+![Full stack and mern stack Web Developer]
+<br>
 I am a passionate and expertised front end web developer. i make eye catching front end design as my clients want, i love doing code. i work with enjoyment and get success in completing qualitiful works. i can make good portfolio websites, E-commerce, PSD to html, Figma to html works etc... If you want to dive into an adventure full of technology or programming, feel free to knock me any time. i'll be ur expert web developer and help you with any projects you want.
 
 Skills: React.js, next.js, express.js, MongoDB, Taliwind CSS, HTML5, CSS3, Bootstrap, node.js, DOM.js, BOM.js
