@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100087983477393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087983477393" height="30" width="40" /></a>
-<a href="https://instagram.com/raiyan_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raiyan_coder" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itz_r4iy4nx/?__pwa=1#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raiyan_coder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/http://www.youtube.com/@user-mi4pl4ib1c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@user-mi4pl4ib1c" height="30" width="40" /></a>
 </p>
 
